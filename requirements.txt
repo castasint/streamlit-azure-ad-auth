@@ -1,0 +1,4 @@
+streamlit
+msal
+msal_streamlit_authentication
+load_dotenv
